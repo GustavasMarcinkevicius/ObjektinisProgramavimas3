@@ -1,6 +1,6 @@
 #include "Includes.h"
 
-//Input gale taip pat pridejau kitokiu linku, kad butu visokiu formatu
+//Input gale taip pat pridejau kitokiu linku, kad butu visokiu formatu.
 
 int main() {
     std::ifstream in("input.txt");
