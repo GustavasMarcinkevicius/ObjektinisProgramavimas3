@@ -20,10 +20,15 @@ int main() {
         // URL extraction
         std::smatch match;
         std::string temp_line = line;
-        while (std::regex_search(temp_line, match, url_pattern)) {
-            urls.insert(match.str());
-            temp_line = match.suffix();
+       while (std::regex_search(temp_line, match, url_pattern)) {
+        std::string url = match.str();
+
+        if (!url.empty() && url.back() == ',') {
+            url.pop_back();
         }
+        urls.insert(url);
+        temp_line = match.suffix();
+}
 
         std::istringstream iss(line);
         std::string word;
@@ -59,7 +64,7 @@ int main() {
         out_urls << url << '\n';
     }
 
-    std::cout << "Darbas baigtas. Rezultatai išsaugoti." << std::endl;
+    std::cout << "Darbas baigtas." << std::endl;
 
     return 0;
 }
