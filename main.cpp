@@ -1,5 +1,7 @@
 #include "Includes.h"
 
+//Input gale taip pat pridejau kitokiu linku, kad butu visokiu formatu
+
 int main() {
     std::ifstream in("input.txt");
     std::ofstream out_words("word_counts.txt");
@@ -12,7 +14,7 @@ int main() {
 
     std::string line;
     int line_number = 0;
-    std::regex url_pattern(R"((https?:\/\/[^\s]+|www\.[^\s]+|\b\w+\.(lt|com|org|net)\b))");
+    std::regex url_pattern(R"((https?:\/\/[^\s]+|www\.[^\s]+|\b(?:\w+\.)+\b(lt|com|org|net)\b))");
 
     while (std::getline(in, line)) {
         ++line_number;

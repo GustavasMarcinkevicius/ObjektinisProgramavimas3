@@ -100,7 +100,6 @@ procesas: 2
 protokolai: 4
 radijas: 3
 radijo: 11
-redaguoti: 30
 rugsėjo: 2
 ryšio: 2
 rėmėsi: 2
@@ -139,7 +138,6 @@ tuo: 2
 už: 2
 vaidmenį: 3
 vaizdo: 2
-vikitekstą: 15
 visuomenės: 2
 wheatstone: 2
 xix: 2

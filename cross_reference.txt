@@ -1,153 +1,151 @@
-1837: 17 18 
-1849: 14 19 
-1909: 3 23 
-alexander: 1 3 19 
-amžiaus: 3 24 45 
-antena: 34 
-antonio: 19 
-arba: 1 32 45 49 59 
-atlikti: 35 45 
-atskirai: 18 19 
-baird: 1 3 24 
-bei: 3 13 14 27 42 46 
+1837: 13 14 
+1849: 11 15 
+1909: 3 18 
+alexander: 1 3 15 
+amžiaus: 3 19 35 
+antena: 27 
+antonio: 15 
+arba: 1 25 35 38 45 
+atlikti: 28 35 
+atskirai: 14 15 
+baird: 1 3 19 
+bei: 3 10 11 21 33 36 
 belaidės: 3 
-bell: 1 3 19 
-bendrauti: 6 46 
-bet: 30 46 
-buvo: 12 14 17 18 19 24 45 54 
-būdu: 1 54 
-būti: 1 30 
-charles: 3 17 
-d: 17 18 
-dalis: 24 35 
-dar: 42 63 
-didelę: 1 38 45 
-dėl: 19 42 54 55 59 
-ekonominio: 42 
-farnsworth: 3 24 
-gali: 1 30 35 
-galima: 12 30 
-garso: 54 59 
-gavo: 23 27 
+bell: 1 3 15 
+bendrauti: 5 36 
+bet: 23 36 
+buvo: 9 11 13 14 15 19 35 41 
+būdu: 1 41 
+būti: 1 23 
+charles: 3 13 
+d: 13 14 
+dalis: 19 28 
+dar: 33 48 
+didelę: 1 30 35 
+dėl: 15 33 41 42 45 
+ekonominio: 33 
+farnsworth: 3 19 
+gali: 1 23 28 
+galima: 9 23 
+garso: 41 45 
+gavo: 18 21 
 graham: 1 3 
-guglielmo: 1 3 23 
-iki: 23 27 
-imtuvas: 1 22 33 34 
-imtuvo: 35 59 
-imtuvą: 19 32 
-informacijos: 1 2 12 
-informaciją: 14 31 33 
-internetas: 25 46 60 62 
-interneto: 27 63 
-ir: 1 2 3 6 9 12 13 14 15 17 19 20 23 24 25 27 30 31 33 34 35 38 41 42 45 46 49 54 55 57 59 62 63 
-italas: 3 19 
-iš: 6 14 32 33 42 45 
-išradimą: 3 17 
-išrado: 17 19 24 
-išradėjai: 3 17 
-jis: 3 23 
-john: 1 3 24 
-jį: 33 34 
-kad: 19 23 
-kai: 3 35 
-kaip: 1 12 23 24 45 
-karl: 23 24 
-karveliai: 9 14 
-karvelius: 14 
-kelis: 54 63 
-kompiuterių: 62 63 
-konvertuoja: 33 34 
-kuris: 31 32 33 63 
-kurią: 18 23 
-laidais: 1 19 
-laidinių: 54 55 
-laikotarpiu: 2 46 
-logie: 1 3 24 
-lygmenyje: 41 42 
-lygyje: 63 
-m: 13 14 17 18 19 23 24 27 
-marconi: 1 3 23 
-metu: 35 55 63 
-meucci: 19 
-morse: 3 18 
-muzikos: 49 
-naudodamas: 23 27 
-naudojami: 1 14 63 
-naudojo: 14 24 
-nobelio: 3 23 
-nuo: 2 12 23 41 54 59 
-o: 17 34 
+guglielmo: 1 3 18 
+iki: 18 21 
+imtuvas: 1 17 26 27 
+imtuvo: 28 45 
+imtuvą: 15 25 
+informacijos: 1 2 9 
+informaciją: 11 24 26 
+internetas: 20 36 46 47 
+interneto: 21 48 
+ir: 1 2 3 5 7 9 10 11 12 13 15 16 18 19 20 21 23 24 26 27 28 30 32 33 35 36 38 41 42 44 45 47 48 
+italas: 3 15 
+iš: 5 11 25 26 33 35 
+išradimą: 3 13 
+išrado: 13 15 19 
+išradėjai: 3 13 
+jis: 3 18 
+john: 1 3 19 
+jį: 26 27 
+kad: 15 18 
+kai: 3 28 
+kaip: 1 9 18 19 35 
+karl: 18 19 
+karveliai: 7 11 
+karvelius: 11 
+kelis: 41 48 
+kompiuterių: 47 48 
+konvertuoja: 26 27 
+kuris: 24 25 26 48 
+kurią: 14 18 
+laidais: 1 15 
+laidinių: 41 42 
+laikotarpiu: 2 36 
+logie: 1 3 19 
+lygmenyje: 32 33 
+lygyje: 48 
+m: 10 11 13 14 15 18 19 21 
+marconi: 1 3 18 
+metu: 28 42 48 
+meucci: 15 
+morse: 3 14 
+muzikos: 38 
+naudodamas: 18 21 
+naudojami: 1 11 48 
+naudojo: 11 19 
+nobelio: 3 18 
+nuo: 2 9 18 32 41 45 
+o: 13 27 
 optiniai: 2 
-padarė: 1 38 45 
-pademonstravo: 18 23 24 
-pagrindiniai: 13 28 
-pat: 14 27 
-pavyzdžiui: 2 34 35 46 
-pašto: 14 
-pažangos: 41 59 
-per: 23 54 
-perdavimas: 1 2 14 
-perduoti: 12 14 19 63 
-philo: 3 24 
-pirmoji: 17 18 24 
-poveikis: 43 47 
-prekybos: 41 
-prie: 3 49 59 
-prietaisas: 24 35 54 
-priklauso: 41 54 
+padarė: 1 30 35 
+pademonstravo: 14 18 19 
+pagrindiniai: 10 22 
+pat: 11 21 
+pavyzdžiui: 2 27 28 36 
+pašto: 11 
+pažangos: 32 45 
+per: 18 41 
+perdavimas: 1 2 11 
+perduoti: 9 11 15 48 
+philo: 3 19 
+pirmoji: 13 14 19 
+poveikis: 34 37 
+prekybos: 32 
+prie: 3 38 45 
+prietaisas: 19 28 41 
+priklauso: 32 41 
 prisidėję: 3 
-procesas: 54 
-protokolai: 63 
-radijas: 2 20 57 
-radijo: 1 3 22 23 34 46 59 
-redaguoti: 5 8 10 16 21 26 29 37 40 44 48 51 53 58 61 
-rugsėjo: 18 24 
-ryšio: 23 63 
-rėmėsi: 2 19 
-samuel: 3 18 
-savo: 1 17 18 27 34 46 
-semaforų: 13 
-seras: 17 
-signalai: 2 59 
-signalui: 23 34 
-signalą: 32 33 34 
-sistemos: 35 45 59 
-sistemą: 14 23 
-siųstuvo: 32 34 35 59 
-su: 23 27 34 45 
-sukūrė: 13 18 23 
-t: 46 54 
-tai: 3 23 
-tarp: 13 14 23 42 59 63 
-technologijos: 27 30 49 
-telefonas: 1 2 15 19 35 52 54 
-telefono: 3 54 
-telefonų: 45 46 54 55 
-telegrafas: 2 15 
-telegrafo: 3 14 17 18 
-telekomunikacija: 1 2 6 45 
-telekomunikacijos: 3 18 30 38 49 
-telekomunikacijų: 1 41 42 46 
-televizija: 20 24 57 
-televizijos: 3 24 59 
-terpė: 32 34 
-tiesiogiai: 41 54 
-tinklų: 27 41 
-todėl: 12 59 
-toks: 35 54 
-tuo: 2 63 
-už: 3 23 
-vaidmenį: 34 35 46 
-vaizdo: 46 59 
-vikitekstą: 5 8 10 16 21 26 29 37 40 44 48 51 53 58 61 
-visuomenės: 38 49 
-wheatstone: 3 17 
-xix: 2 14 
-xx: 3 24 45 
-yra: 34 35 42 54 59 
-į: 19 30 32 33 34 49 54 
-įtaką: 1 38 45 
-įvairių: 1 54 
-Ši: 14 27 
-šis: 54 
-žmonių: 45 46 
+procesas: 41 
+protokolai: 48 
+radijas: 2 16 44 
+radijo: 1 3 17 18 27 36 45 
+rugsėjo: 14 19 
+ryšio: 18 48 
+rėmėsi: 2 15 
+samuel: 3 14 
+savo: 1 13 14 21 27 36 
+semaforų: 10 
+seras: 13 
+signalai: 2 45 
+signalui: 18 27 
+signalą: 25 26 27 
+sistemos: 28 35 45 
+sistemą: 11 18 
+siųstuvo: 25 27 28 45 
+su: 18 21 27 35 
+sukūrė: 10 14 18 
+t: 36 41 
+tai: 3 18 
+tarp: 10 11 18 33 45 48 
+technologijos: 21 23 38 
+telefonas: 1 2 12 15 28 40 41 
+telefono: 3 41 
+telefonų: 35 36 41 42 
+telegrafas: 2 12 
+telegrafo: 3 11 13 14 
+telekomunikacija: 1 2 5 35 
+telekomunikacijos: 3 14 23 30 38 
+telekomunikacijų: 1 32 33 36 
+televizija: 16 19 44 
+televizijos: 3 19 45 
+terpė: 25 27 
+tiesiogiai: 32 41 
+tinklų: 21 32 
+todėl: 9 45 
+toks: 28 41 
+tuo: 2 48 
+už: 3 18 
+vaidmenį: 27 28 36 
+vaizdo: 36 45 
+visuomenės: 30 38 
+wheatstone: 3 13 
+xix: 2 11 
+xx: 3 19 35 
+yra: 27 28 33 41 45 
+į: 15 23 25 26 27 38 41 
+įtaką: 1 30 35 
+įvairių: 1 41 
+Ši: 11 21 
+šis: 41 
+žmonių: 35 36 

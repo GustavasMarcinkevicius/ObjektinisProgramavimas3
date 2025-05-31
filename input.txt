@@ -1,32 +1,25 @@
-Telekomunikacija – informacijos https://lt.wikipedia.org/wiki/Informacija perdavimas tolimais atstumais. Nuotoliniu būdu siunčiamai informacijai priimti naudojami tokie prietaisai kaip telefonas https://lt.wikipedia.org/wiki/Telefonas, radijo imtuvas https://lt.wikipedia.org/wiki/Radijo_imtuvas, televizorius, kompiuteris. Informacija gali būti perduodama įvairių dažnių radijo bangomis arba laidais sklindančiais elektromagnetiniais impulsais. Telekomunikacijų plėtrai savo išradimais didelę įtaką padarė Alexander Graham Bell, Guglielmo Marconi ir John Logie Baird.
+Telekomunikacija – informacijos https://lt.wikipedia.org/wiki/Informacija perdavimas tolimais atstumais. Nuotoliniu būdu siunčiamai informacijai priimti naudojami tokie prietaisai kaip telefonas https://lt.wikipedia.org/wiki/Telefonas, radijo imtuvas https://lt.wikipedia.org/wiki/Radijo_imtuvas, televizorius, kompiuteris. Informacija gali būti perduodama įvairių dažnių radijo bangomis https://lt.wikipedia.org/wiki/Radijo_bangos arba laidais sklindančiais elektromagnetiniais impulsais. Telekomunikacijų plėtrai savo išradimais didelę įtaką padarė Alexander Graham Bell, Guglielmo Marconi ir John Logie Baird.
 Ankstyvoji telekomunikacija rėmėsi primityvių vizualinių signalų principais, pavyzdžiui, signalinės ugnys, švyturiai, dūmų signalai, vėliavėlės, semaforai, optiniai heliografai.[1] Nuo XIX a. elektriniai, elektromagnetiniai ir optiniai signalai pakeitė primityvius metodus. Tuo laikotarpiu atsirado telegrafas, telefonas, radijas, informacijos perdavimas mikrobangomis, šviesolaidžiais ir palydovais.
 Belaidės telekomunikacijos revoliucija prasidėjo XX amžiaus pirmajame dešimtmetyje, kai italas Guglielmo Marconi atliko pirmuosius bandymus radijo komumikacijos srityje. Už tai ir radijo išradimą jis 1909 metais apdovanotas Nobelio premija. Kiti išradėjai, prisidėję prie belaidės komunikacijos – Charles Wheatstone ir Samuel Morse (telegrafo išradėjai), Alexander Graham Bell (telefono išradėjas), Edwin Armstrong ir Lee de Forest (radijo išradėjai) bei Vladimir K. Zworykin, John Logie Baird, Philo Farnsworth (prisidėję prie televizijos išradimo).
 Etimologija
-[redaguoti | redaguoti vikitekstą]
 Žodis telekomunikacija susideda iš graikiško priešdėlio tele (τηλε), reiškiančio toli, ir lotyniško žodžio communicare, liet. bendrauti.
 Istorija
-[redaguoti | redaguoti vikitekstą]
 Švyturiai ir karveliai
-[redaguoti | redaguoti vikitekstą]
  Semaforo bokštas
 Viduramžiais švyturių grandinės kalvų viršūnėse buvo naudojamos kaip primityvus būdas informacijos perdavimui. Šiuo metodu galima buvo perduoti tik po vieną bitą informacijos, todėl gautos žinutės reikšmė priklausė nuo siuntėjo ir gavėjo išankstinio susitarimo.
 1792 m. Claude Chappe, prancūzų inžinierius sukūrė pirmąją semaforų grandinę tarp Lilio ir Paryžiaus.[2] Semaforų pagrindiniai trūkumai – dideli statybos kaštai bei patyrusių operatorių stoka.
 Pašto karveliai taip pat buvo naudojami įvairiose kultūrose skirtinguose istorijos laikotarpiuose. Žinios perdavimas pasitelkiant karvelius kildinamas iš Persijos bei buvo naudojamas romėnų perduoti informaciją kariams. Graikai skelbdavo Olimpinių žaidynių nugalėtojus nutolusiems regionams pasitelkdami pašto karvelius. Net ir ankstyvame XIX amžiuje Olandijos vyriausybė naudojo šią sistemą Javoje ir Sumatroje. 1849 m. Paul Julius Reuter įkūrė karvelių pašto padalinį, skirtą gabenti akcijos kainas tarp Acheno ir Briuselio. Ši paslauga veikė metus, kol telegrafo linijos spraga buvo užtaisyta.[3]
 Telegrafas ir telefonas
-[redaguoti | redaguoti vikitekstą]
 Seras Charles Wheatstone ir seras William Fothergill Cooke 1837 m. išrado elektrinį telegrafą.[4] Pirmoji komercinė elektrinio telegrafo linija buvo atidaryta Vitstouno ir Kuko 1839 m. balandžio 9 d. Abu išradėjai savo išradimą laikė jau naudojamo elektromagnetinio telegrafo patobulinimu, o ne nauju išradimu.[5]
 Samuel Morse atskirai sukūrė savo telegrafo versiją, kurią nesėkmingai pademonstravo 1837 m. rugsėjo 2 d. Jo sukurta Morzės abėcėlė buvo svarbus žingsnis telekomunikacijos istorijoje. Pirmoji transatlantinė transliacija buvo sėkmingai atlikta 1866 m. liepos 27 d.[6]
 Dabartinis telefonas buvo išrastas 1876 m. dviejų, atskirai veikusių išradėjų – Alexander Bell ir Elisha Gray.[7] Italas Antonio Meucci 1849 m. išrado pirmąjį prietaisą, leidžiantį balsą perduoti laidais. Antonio Meucci nesulaukė komercinio pasisekimo, nes rėmėsi elektrofoninio efekto principu. Dėl šios priežasties gavėjas privalėjo įsidėti imtuvą į burną, kad galėtų girdėti siunčiamą garsą.[8]
 Radijas ir televizija
-[redaguoti | redaguoti vikitekstą]
  Radijo imtuvas
 1854 m. James Lindsay pademonstravo transliaciją per Tėjaus žiotis nuo Dandi iki Woodhaven, 3 km atstumu, naudodamas vandenį kaip terpę signalui. 1901 m. gruodį Guglielmo Marconi sukūrė belaidžio ryšio sistemą tarp Sent Džonso (Niufaundlandas, Kanada) ir Poldhu (Kornvalis, Anglija). Už tai jis 1909 m. gavo Nobelio premiją fizikoje (kurią jis pasidalino su Karl Braun).[9] Svarbu paminėti, kad nedidelio masto radijo komunikaciją Nikola Tesla demonstravo 1893 m. prezentacijoje Nacionalinės elektrinės šviesos asociacijoje.[10]
 1925 m. John Logie Baird pademonstravo judančių vaizdų perdavimą Londono parduotuvėje Selfridges. Baird'o prietaisas naudojo Nipkovo diskus ir pagarsėjo kaip pirmoji mechaninė televizija. Tačiau didžioji dalis XX amžiaus televizorių naudojo katodinių spindulių vamzdį, kurį išrado vokietis Karl Braun. Pirmoji potencialiai sėkminga televizijos sistema buvo pristatyta Philo Farnsworth ir pademonstruota 1927 m. rugsėjo 7 d.[11]
 Kompiuteriai ir internetas
-[redaguoti | redaguoti vikitekstą]
 1940 m. rugsėjį George Stibitz siuntė užduotis savo Kompleksinių skaičių skaičiuotuvui Niujorke naudodamas teletaipą ir gavo apdorotus rezultatus Dartmuto koledže Naujajame Hampšyre.[12] Ši centralizuoto kompiuterio su nuotoliniais terminalais konfigūracija liko populiari iki pat 1970-ųjų. Ši bei kitos technologijos lėmė dabartinio interneto ir kitų tinklų atsiradimą ir plėtrą.
 Pagrindiniai aspektai
-[redaguoti | redaguoti vikitekstą]
 Telekomunikacijos technologijos gali būti skirstomos į laidines ir belaides. Bet kokioje telekomunikacijos sistemoje galima išskirti tris pagrindinius aspektus:
 •	Siųstuvas, kuris apdoroja informaciją ir paverčia ją signalu.
 •	Terpė, arba fizinis kanalas, kuris perduoda signalą iš siųstuvo į imtuvą.
@@ -34,31 +27,24 @@ Telekomunikacijos technologijos gali būti skirstomos į laidines ir belaides. B
 Pavyzdžiui, radijo stotyje stiprintuvas su antena atlieka siųstuvo vaidmenį, aplinkui esanti erdvė yra terpė antenos skleidžiamam elektromagnetiniam signalui, o radijo imtuvas su savo antena priima šį signalą ir konvertuoja jį į garsą.
 Kai kurios sistemos, pavyzdžiui mobilusis telefonas, yra dvipusės.[13] Toks prietaisas gali atlikti ir siųstuvo, ir imtuvo vaidmenį vienu metu, nors siųstuvo ir imtuvo elektroninė dalis tokiame prietaise paprastai yra nepriklausomos.
 Įtaka visuomenei
-[redaguoti | redaguoti vikitekstą]
 Telekomunikacijos pažanga padarė didelę įtaką visuomenės raidai, kultūrai ir ekonomikai.
 Ekonomika
-[redaguoti | redaguoti vikitekstą]
 Mikroekonomikos lygmenyje didžiųjų prekybos centrų tinklų ir elektroninės prekybos portalų augimas tiesiogiai priklauso nuo telekomunikacijų technologijų pažangos.
 Makroekonomikos lygmenyje Leonard Waverman pastebi priežastinį ryšį tarp geros telekomunikacijų infrastruktūros bei ekonominio augimo.[14] Socialinė atskirtis ir nelygybė dėl nevienodo telekomunikacijų prieinamumo yra viena iš problemų, kylančių dėl greito ekonominio augimo pažangiose šalyse. Šis reiškinys dar vadinamas skaitmenine atskirtimi.
 Socialinis poveikis
-[redaguoti | redaguoti vikitekstą]
 Šiuolaikinė telekomunikacija padarė didelę įtaką žmonių socialiniams santykiams. Komercinės telefonų sistemos iš pradžių buvo reklamuojamos kaip praktinę naudą duodantys įrenginiai, leidžiantys namuose atlikti verslo reikalus arba galintys palengvinti paslaugų užsakymą. XX amžiaus antrajame ir trečiajame dešimtmečiuose telefonų reklamos buvo labiau susijusios su socialiniais aspektais.[15]
 Pastaruoju laikotarpiu telekomunikacijų įtaka tapo itin didelė; telefonų ir radijo vaidmenį žmonių gyvenimuose perėmė internetas, leidžiantis bet kam tapti socialinio tinklo dalimi. Tokios svetainės (pavyzdžiui, Facebook, Twitter, Google+, Vkontakte ir t. t.) leidžia asmenims dalintis savo įspūdžiais, nuotraukomis, vaizdo įrašais bei bendrauti tarpusavyje.
 Kultūrinis poveikis
-[redaguoti | redaguoti vikitekstą]
 Kultūriniu požiūriu telekomunikacijos technologijos palengvino visuomenės prieinamumą prie muzikos ir kino. Atsiradus televizijai ir internetui nebėra būtinybės eiti į kiną arba į koncertus norint pamatyti filmą arba išgirsti muzikos kūrinį.
 Naujosios medijos
-[redaguoti | redaguoti vikitekstą]
 Telefonas
-[redaguoti | redaguoti vikitekstą]
 Pirmuosiuose laidinių telefonų tinkluose telefono operatorius sujungdavo skambintoją ir asmenį, kuriam skambinama, rankiniu būdu. Vėliau šis procesas buvo atliekamas automatiškai. Toks telefonas yra analoginis prietaisas, t. y. laidu tekanti elektros srovė tiesiogiai priklauso nuo garso, patenkančio į mikrofoną. Per pastaruosius kelis dešimtmečius šis procesas buvo skaitmenizuotas dėl įvairių priežasčių.
 Mobiliųjų telefonų naudojimas šiuo metu gerokai viršija laidinių telefonų naudojimą dėl mažų aptarnavimo kaštų ir patogumo.
  Trikdžiai televizijoje
 Radijas ir televizija
-[redaguoti | redaguoti vikitekstą]
 Radijo ir televizijos transliacijų industrija visame pasaulyje lėtai pereina nuo analoginio prie skaitmeninio standarto dėl technologinės pažangos ir skaitmeninių sistemų privalumų. Skaitmeninės sistemos yra atsparesnės atmosferiniams trikdžiams dėl signalo diskretumo. Analoginiai signalai daug lengviau paveikiami šių triukšmų, todėl blogėja transliacijos garso arba vaizdo kokybė esant dideliems atstumams tarp siųstuvo ir imtuvo.
 Internetas
-[redaguoti | redaguoti vikitekstą]
 Internetas – pasaulinis kompiuterių tinklas, jungiantis visuotinius ir vietinius kompiuterių tinklus.
 Kompiuterių tinklai jungiami įvairiomis ryšio linijomis ir maršrutizatoriais. Interneto protokolai turi kelis lygius. Žemiausiame lygyje (kuris reikalingas visiems aukštesniems) naudojami IPv4 ar IPv6 protokolai, kiekvienam kompiuteriui suteikiant tuo metu unikalų IP adresą. Kitame lygyje, ryšiui tarp kompiuterių palaikyti naudojami TCP/IP ir UDP protokolai. Dar aukštesniame lygyje naudojami konkrečiam tikslui skirti protokolai (HTTP – tinklalapiams perduoti, SMTP – elektroniniam paštui, FTP – paskiroms byloms siųsti ir pan).[16]
 
+emokymai.vu.lt,  www.vu.lt, vu.lt, https://lt.wikipedia.org/wiki/Telekomunikacija, https://www.facebook.com/, https://autoplius.lt/skelbimai/bmw-430-3-0-l-kupe-coupe-2021-dyzelinas-elektra-28331804.html
