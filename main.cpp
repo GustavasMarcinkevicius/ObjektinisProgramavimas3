@@ -14,7 +14,9 @@ int main() {
 
     std::string line;
     int line_number = 0;
-    std::regex url_pattern(R"((https?:\/\/[^\s]+|www\.[^\s]+|\b(?:\w+\.)+\b(lt|com|org|net)\b))");
+    std::regex url_pattern(R"((https?:\/\/[^\s]+|www\.[^\s]+|\b(?:[a-zA-Z]+\.)+[a-zA-Z]{2,}\b))");
+
+    extract_words_with_substring("input.txt", "nua", "matching_words.txt");
 
     while (std::getline(in, line)) {
         ++line_number;
@@ -25,7 +27,7 @@ int main() {
        while (std::regex_search(temp_line, match, url_pattern)) {
         std::string url = match.str();
 
-        if (!url.empty() && url.back() == ',') {
+        if (!url.empty() && (url.back() == ',' || url.back() == '.')) {
             url.pop_back();
         }
         urls.insert(url);
